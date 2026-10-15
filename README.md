@@ -1,14 +1,14 @@
-# E-Commerce Web Application
+# Blog Platform with Comments
 
 ## Overview
-A basic online store with product catalog, cart, and checkout simulation.
+A blogging interface to create posts and add comments.
 
 ## Features
-- Product catalog
-- Add/remove items from cart
-- Quantity and total calculation
-- Demo checkout confirmation
-- Express API starter for products and orders
+- Create blog posts
+- Add comments to posts
+- Delete posts from the page
+- Posts saved in browser localStorage
+- Express API starter for posts and comments
 
 ## Technology stack
 - Frontend: HTML5, CSS3, JavaScript

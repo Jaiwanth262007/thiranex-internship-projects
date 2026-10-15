@@ -1,8 +1,8 @@
 {
-  "name": "e-commerce-web-application",
+  "name": "blog-platform-with-comments",
   "version": "1.0.0",
   "private": true,
-  "description": "A basic online store with product catalog, cart, and checkout simulation.",
+  "description": "A blogging interface to create posts and add comments.",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js"

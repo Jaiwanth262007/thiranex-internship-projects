@@ -1,8 +1,8 @@
 {
-  "name": "personal-portfolio-website",
+  "name": "e-commerce-web-application",
   "version": "1.0.0",
   "private": true,
-  "description": "A responsive portfolio website with project showcase, skills, contact form, and resume download.",
+  "description": "A basic online store with product catalog, cart, and checkout simulation.",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js"

@@ -1,14 +1,14 @@
-# Personal Portfolio Website
+# E-Commerce Web Application
 
 ## Overview
-A responsive portfolio website with project showcase, skills, contact form, and resume download.
+A basic online store with product catalog, cart, and checkout simulation.
 
 ## Features
-- Responsive portfolio layout
-- Projects and skills sections
-- Contact form API endpoint
-- Resume placeholder download
-- Node.js/Express backend
+- Product catalog
+- Add/remove items from cart
+- Quantity and total calculation
+- Demo checkout confirmation
+- Express API starter for products and orders
 
 ## Technology stack
 - Frontend: HTML5, CSS3, JavaScript
